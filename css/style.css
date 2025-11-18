@@ -1,0 +1,71 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.bg-orange {
+    background-color: #F05A00;
+}
+
+.text-orange {
+    color: #F05A00;
+}
+
+.btn-user {
+    height: 60px;
+    font-size: 30px;
+}
+
+.btn-user:hover {
+    background-color: #e05702;
+    color: #fff;
+}
+.card-content2 {
+font-size: 40px;
+font-weight: 600;
+color: white;
+}
+.text-content2{
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+}
+.btn-content2{
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #e05702;
+    text-transform: uppercase;
+}
+.title-content3{
+    font-size: 40px;
+    font-weight: 600;
+}
+.content-3{
+    background-color: rgb(245, 245, 245);
+}
+.bottom-text1{
+    font-size: 14px;
+    color: green;
+}
+.icon-content3{
+    color: orangered;
+    border-color: orangered;
+    margin-right: 0;
+}
+.small-content3{
+    color: white;
+}
+.content3-cardText{
+    font-size: 16px;
+    font-weight: 500;
+}
+.content3-body{
+    border-top: 3px solid rgb(214, 213, 213);
+}
+.content-4{
+    background-color: rgb(55, 54, 54);
+    color: white;
+}
+h2{
+    font-size: 32px;
+    font-weight: 600;
+}
